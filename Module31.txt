@@ -1,0 +1,29 @@
+***Jokhon function parameter pass kora hoy ebong tar ekta default value diye dewa hiy tokhon oi parameter keh default parameter bole. 
+console.log(user2.address.street?.second);
+
+***Eke bole optional chain jodi question mark thake tahole oita thakle valo nah thakle somossa nai eita holo optional. 
+
+Array maping korle seh internally loop diye prottek element keh access kore ekta functioon chalay result ghula keh ekta new array teh rekhe dey.
+
+****Difference Between map and forEach()
+
+****Map ar foreach ekoi kaj kore kintu map new array keh return kore kintu for each kichui return kore nah 
+
+***Kono particular array keh condition diye filter korar jonno filtyer function use kora hoy. Ei method ekta new function return kore
+
+const selected=player.filter(p=>p>70)
+
+****filter ar find er bhitore kichu difference ache
+1. Filter array return kore kintu find jeh condition fulfil korbe bah ekadik keu fullfill korlewo seh shudu first er tah kei return korbe.
+2. Sorto na mille empty array return korbe ar fins sorto na mille undefined return korbe. 
+
+
+
+
+
+const number = [1, 2, 3, 4, 5];
+const total = number.reduce((previous, current) => previous + current, 0);
+console.log(total);
+
+
+****Amra reduce function use korar maddome total array er element ghula jog kore felte pari function keh dot notation diye call kore tar bhitore sum er initial value dite hobe jah dewahobe tar uporei eke eke jog korbe. Tarpor ekta arrow function run korte hobe. Abar chaile jog biyog gun bg ohh kora jhay
