@@ -27,3 +27,13 @@ console.log(total);
 
 
 ****Amra reduce function use korar maddome total array er element ghula jog kore felte pari function keh dot notation diye call kore tar bhitore sum er initial value dite hobe jah dewahobe tar uporei eke eke jog korbe. Tarpor ekta arrow function run korte hobe. Abar chaile jog biyog gun bg ohh kora jhay
+
+***Class ehh function declare korte bah variable likhte let const var or function kichui likha lage nah
+
+
+**** class ke call korar jonne new keyword must lage and class ekti object return kore. 
+
+
+****Javascript Ehh Inheritance Chain Thake Take Bole Prototype Chain
+
+***This diye jake call kora hobe or atribute ghula use korbe
